@@ -1,0 +1,19 @@
+{
+  "name": "moviedb",
+  "version": "1.0.0",
+  "description": "api moviedb with simple css :D",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinsonGr/api-moviedb.git"
+  },
+  "author": "Robgr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobinsonGr/api-moviedb/issues"
+  },
+  "homepage": "https://github.com/RobinsonGr/api-moviedb#readme"
+}
